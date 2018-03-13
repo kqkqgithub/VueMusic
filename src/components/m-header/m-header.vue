@@ -1,7 +1,7 @@
 <template>
   <div class="mHeader">
     <!-- <router-view/> -->
-    <div class="title">Chiken Music</div>
+    <div class="title">BoomBoom</div>
   </div>
 </template>
 
